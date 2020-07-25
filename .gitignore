@@ -1,0 +1,9 @@
+# Don't track content of these folders
+node_modules/
+
+b.bat
+c.bat
+l.bat
+o.bat
+p.bat
+s.bat
